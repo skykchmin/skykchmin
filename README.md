@@ -1,12 +1,5 @@
 ### Hi there 👋
 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white)
-![JPA Hibernate](https://img.shields.io/badge/JPA%20Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
 <!--
 **skykchmin/skykchmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
