@@ -26,8 +26,9 @@ Here are some ideas to get you started:
 <br>
 <div align="center">
 
+<!--
 [![skykchmin GitHub stats](https://github-readme-stats.vercel.app/api?username=skykchmin&show_icons=true&count_private=true&theme=material-palenight)](https://github.com/skykchmin/github-readme-stats)
-
+-->
 
 </div>
 
