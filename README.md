@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 - I worked as a Backend Engineer from July 2021 to mid ~ Now. 
 - I focus on learning new technologies and aim to build and experience a diverse technology stack.
 - How to reach me: skykchmin@gmail.com
-- My Tech Blog: [기억을 기록하다](https://cheony-y.tistory.com/)
+- My Tech Blog: [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://cheony-y.tistory.com/)](https://cheony-y.tistory.com/)
+
 
 <br>
 <div align="center">
