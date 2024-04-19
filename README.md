@@ -50,7 +50,10 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D.svg?&style=flat-square&logo=Redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
-![MyBatis](https://img.shields.io/badge/MyBatis-FC8EAC?style=flat-square&logo=MyBatis&logoColor=white) 
+![MyBatis](https://img.shields.io/badge/MyBatis-FC8EAC?style=flat-square&logo=MyBatis&logoColor=white)
+![SpringSecurity](https://img.shields.io/badge/springsecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![amazonsqs](https://img.shields.io/badge/amazonsqs-FF4F8B?style=flat-square&logo=amazonsqs&logoColor=white)
+![amazonses](https://img.shields.io/badge/amazonses-DD344C?style=flat-square&logo=amazonsimpleemailservice&logoColor=white)
 ![Junit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=JUnit5&logoColor=white)
 ![JMeter](https://img.shields.io/badge/JMeter-F88379?style=flat-square&logo=JMeter&logoColor=white)
 
